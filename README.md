@@ -1,2 +1,1 @@
-# jhoty
-este es mi repositorio
+# coding-project-template
